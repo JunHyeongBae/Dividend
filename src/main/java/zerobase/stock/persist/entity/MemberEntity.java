@@ -1,4 +1,4 @@
-package zerobase.stock.model;
+package zerobase.stock.persist.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
