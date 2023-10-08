@@ -17,7 +17,6 @@ import zerobase.stock.persist.entity.DividendEntity;
 import zerobase.stock.scraper.Scraper;
 
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 
 @Service

@@ -9,8 +9,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import zerobase.stock.exception.impl.AlreadyExistUserException;
 import zerobase.stock.model.Auth;
-import zerobase.stock.persist.entity.MemberEntity;
 import zerobase.stock.persist.MemberRepository;
+import zerobase.stock.persist.entity.MemberEntity;
 
 @Slf4j
 @Service
